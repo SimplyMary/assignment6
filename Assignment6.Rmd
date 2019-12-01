@@ -1,7 +1,7 @@
 ---
-title: "assignment6"
-author: "Zixuan MA"
-date: "11/30/2019"
+title: "Assignment 6"
+author: "Zixuan Ma"
+date: "11/24/2016"
 output: html_document
 ---
 #Addignment 6
